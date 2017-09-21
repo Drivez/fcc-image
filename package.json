@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Marius <marius.kildedal@gmail.com>",
   "license": "MIT",
+  "start": "node app.js",
   "dependencies": {
     "express": "^4.15.4",
     "mongoose": "^4.11.12",
