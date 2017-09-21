@@ -1,0 +1,17 @@
+{
+  "name": "image-search-microservice",
+  "version": "1.0.0",
+  "description": "Fcc image",
+  "main": "index.js",
+  "author": "Marius <marius.kildedal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.12.1",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
